@@ -1,0 +1,7 @@
+{
+  "name":"heroku-fb-app",
+  "description":"",
+  "scripts":{},
+  "env":{},
+  "addons":[]
+}
